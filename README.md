@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @micmeyers, a computer information systems college student!
+- 👋 Hi, I’m @micmeyers
 - 👀 I’m interested in building my portfolio!
-- 🌱 I’m currently learning Java, C++ and SQL!
-- 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me:
 Linkenin: https://www.linkedin.com/in/micmeyers/ 
 Instagram: @michellemeyerss
