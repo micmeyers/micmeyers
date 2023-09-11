@@ -2,7 +2,6 @@
 - 👀 I’m interested in building my portfolio!
 - 📫 How to reach me:
 Linkenin: https://www.linkedin.com/in/micmeyers/ 
-Instagram: @michellemeyerss
 Email: meyersmichellea@gmail.com
 
 <!---
